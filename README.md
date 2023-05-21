@@ -145,14 +145,10 @@ As a mobile app developer, my goal is to create apps that not only provide seaml
 <!-- Begin Footer -->
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
-<div class="footer" align="center" style="margin:15px;">
-    <a href="https://programming-gym.blogspot.com/" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531458-b5dfeb1b-bad5-4dfa-909a-2e402262db9a.svg" alt="blogger" width="40px"/>
-    </a>
-    <a href="mailto:nguyentuan3162@gmail.com" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
-    </a>
-</div>
+<p align="center">
+&nbsp; <a href="https://www.facebook.com/profile.php?id=100034781511509" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook-new.png" width="50" /></a>  
+&nbsp; <a href="mailto:nguyentuan3162@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
 <!-- End Footer -->
 
 <!-- 

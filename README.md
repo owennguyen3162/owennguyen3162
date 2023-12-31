@@ -1,14 +1,7 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Nguyen Tuan (Owen Nguyen) </h1>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    As a mobile app developer, I have always been fascinated by the world of technology and its ever-evolving nature. From a young age, I developed a passion for coding and creating innovative solutions through mobile applications. The ability to turn ideas into functional, user-friendly apps that can make a positive impact on people's lives is what drives me in this field.
-
-One of my favorite aspects of being a mobile app developer is the constant learning and exploration. Technology is constantly advancing, and staying up-to-date with the latest trends and tools is essential. I enjoy immersing myself in new programming languages, frameworks, and platforms, as they allow me to expand my skill set and take on exciting challenges.
-
-Collaboration is another aspect that I highly value. Working in a team of talented individuals, brainstorming ideas, and bringing them to life through collaborative effort is truly rewarding. The synergy that comes from combining different perspectives and skill sets leads to the creation of exceptional mobile apps.
-
-In my free time, I often engage in personal projects to further enhance my skills and creativity. I enjoy experimenting with new app ideas and exploring different design patterns to create intuitive user interfaces. The feeling of seeing my ideas come to life and witnessing the positive impact they can have on users is incredibly fulfilling.
-
+  
 As a mobile app developer, my goal is to create apps that not only provide seamless functionality but also deliver exceptional user experiences. I believe that technology has the power to simplify our lives and connect people in meaningful ways. By continuously honing my skills and pushing the boundaries of what is possible, I strive to contribute to this ever-evolving landscape of mobile app development.
 
 
